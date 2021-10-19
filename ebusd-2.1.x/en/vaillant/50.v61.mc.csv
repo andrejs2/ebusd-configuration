@@ -1,4 +1,4 @@
-# type (r[1-9];w;u),circuit,name,[comment],[QQ],ZZ,PBSB,[ID],field1,part (m/s),datatypes/templates,divider/values,unit,comment
+# type (r[1-9];w;u),circuit,name,[comment],[QQ],ZZ,PBSB,[ID],field1,part (m/s),datatypes/templates,divider/values,unit,comment,,,
 #,V6100,VR 61,V61 219,,,,,,,,,,,,,
 *r,,,,,,"B509","0D",,,,,,,,,
 *w,,,,,,"B509","0E",,,,,,,,,
