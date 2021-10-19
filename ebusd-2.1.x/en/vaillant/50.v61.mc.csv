@@ -13,7 +13,7 @@ r;w,,HolidayTempDesired,DesiredHolidayTemperature,,,,"1400",,,D1C,,,"4.5=frostpr
 r;w,,Hc2ManualOPRoomTempDesired,HC2_ManualOPRoomSetpoint,,,,"3400",,,temp1,,,room setpoint in operation mode manual of the second heating circuit,,,
 r,,Hc2QuickVetoTemp,HC2_QuickVetoTemp,,,,"3200",,,temp1,,,manual override setpoint of the second heating circuit,,,
 r,,DisplayedRoomTempDesired,DisplayedRoomSetpoint,,,,"4800",,,temp,,,,,,
-r,,SunMoonInfo,SunMoonInfo,,,,"4700",,,UCH,,,"(2 = sun, 4 = moon)",,,
+r,,SunMoonInfo,SunMoonInfo,,,,"4700",,,UCH,,,"(2 = sun, 4 = moon)"
 # ##### extra #####,,,,,,,,,,,,,,,,,,,
 r,,Flow1Sensor,Flow1Sensor,,,,"0000",,,tempsensor,,,second heating circuit's flow temperature and sensorstate,,,
 r,,BoilerCircuitPump,BurnerCircuitPump,,,,"2000",,,onoff,,,first heating circuit (burner circuit) pump's state,,,
