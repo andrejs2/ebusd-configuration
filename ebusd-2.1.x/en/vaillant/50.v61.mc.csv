@@ -1,9 +1,9 @@
 # type (r[1-9];w;u),circuit,name,[comment],[QQ],ZZ,PBSB,[ID],field1,part (m/s),datatypes/templates,divider/values,unit,comment
 #,V6100,VR 61,V61 219,,,,,,,,,,
-*r,,,,,,"B509","0D",,,,,,
-*w,,,,,,"B509","0E",,,,,,
-*wi,#install,,,,,"B509","0E",,,,,,
-*[SW],scan,,,SW,,,,,,,,,
+*r,,,,,,"B509","0D",,,,,,,,,
+*w,,,,,,"B509","0E",,,,,,,,,
+*wi,#install,,,,,"B509","0E",,,,,,,,,
+*[SW],scan,,,SW,,,,,,,,,,,,
 # ##### general #####,,,,,,,,,,,,,,,,
 [SW<202]r;w,,InternalOperatingMode430,InternalOperatingMode430,,,,"3100",,,UCH,0=off;1=manual;2=auto,,operation mode of the second heating circuit for 430,,,
 [SW>=202]r;w,,InternalOperatingMode470,InternalOperatingMode470,,,,"3100",,,UCH,2=auto;3=on;4=night;5=summer,,"operation mode of the second heating circuit for 470",,,
