@@ -1,3 +1,25 @@
+# 2023-09-23
+* added energyintegral for vailant/08.hmu
+* extended sfmode for vaillant/15.700+720+b7v+basv
+* added further vaillant/08.bai 0010015600 variants: 0010021875+0010021887
+* added vaillant/15.450+f45
+* added special hardware variant of vaillant/15.350
+
+# 2023-01-02
+* added cooling, global off, and ventilation to vaillant/15.700
+* added vaillant/15.160
+* added another vaillant/08.bai 0010015600 variant: 0010021929 
+
+# 2022-05-08
+* added vaillant/15.e7c and 15.e7f_2
+* fix wrong assignment of vaillant/08.bai 0010014917 in en folder
+* added vaillant/08.bai derivates: 0010008045, 0010008863, 0010023648
+* added another vaillant/08.bai 0010015600 variant: 0010019276
+
+# 2021-12-12
+* added another vaillant/08.bai 0010015600 variant: 0010021891
+* made some counter values in vaillant/08.bai writable to installer
+
 # 2021-02-20
 * made vaillant/broadcast vdatetime writable to installer
 * added value 4=hwc to vaillant pumpstate
